@@ -1,6 +1,7 @@
 {
   "version": "1.5",
   "token": "ABC123XYZ", 
-  "firmware_url": "https://github.com/dbagusf/maeb/raw/refs/heads/main/dht11servo.ino.bin"
+  "firmware_url": "https://github.com/dbagusf/maeb/raw/refs/heads/main/otawithversionjson.ino.bin"
 }
+
 
